@@ -1,7 +1,8 @@
 body {
-    background-color: black;
+    background-color: #7d7d7d;
 }
 
 h1, p {
     color: gold;
+    font-family:Lato, sans-serif;
 }
