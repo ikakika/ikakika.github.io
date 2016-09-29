@@ -1,0 +1,20 @@
+body {
+	    background:url(../../../PNCDevelopment/Oregon.jpg),
+		no-repeat;
+		font-family:Lato, sans-serif;
+		}
+
+h1, p {
+    color: black;
+    
+}
+
+#menu {
+	background-color:black;
+	color:white;
+	height:20px;
+	margin:0;
+	padding:10px;
+	text-align:center;
+	font-weight:100;
+}
